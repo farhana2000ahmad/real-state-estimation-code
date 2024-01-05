@@ -1,0 +1,1 @@
+ I have done a project on the topic of Real State Estimation. On that code, i did EDA, Feature Engineering, different model like Regression, decision tree, random forest model and find out the best model for it.
